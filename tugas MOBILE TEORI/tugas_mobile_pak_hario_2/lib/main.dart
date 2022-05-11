@@ -1,8 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:tugas_mobile_pak_hario_2/first_page.dart';
+import 'package:tugas_mobile_pak_hario_2/second_page.dart';
 
 void main() {
-  runApp(const MypApp());
+  runApp(MaterialApp(
+    initialRoute: '/',
+    routes: <String, WidgetBuilder>{
+      '/': (context) => Home(),
+      '/about': (context) => secondpage(),
+    },
+  ));
 }
 
 class MypApp extends StatelessWidget {

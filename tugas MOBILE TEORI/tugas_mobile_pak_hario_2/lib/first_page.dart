@@ -1,5 +1,8 @@
+import 'dart:ui';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import "package:tugas_mobile_pak_hario_2/second_page.dart";
 
 class Home extends StatefulWidget {
@@ -15,7 +18,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.lightBlue,
-        title: Text('Gilang Yuda Pratama'),
+        title: Text('First Page'),
         leading: IconButton(
           icon: Icon(Icons.arrow_back),
           onPressed: () {
@@ -50,7 +53,8 @@ class _HomeState extends State<Home> {
           ),
           Container(
             margin: EdgeInsets.only(left: 100, right: 100),
-            height: 30,
+            height: 40,
+            alignment: Alignment.center,
             child: ElevatedButton(
                 onPressed: () {
                   Navigator.of(context)
@@ -59,7 +63,11 @@ class _HomeState extends State<Home> {
                   })));
                 },
                 child: Text(
-                  "Pindah",
+                  "Pindah dengan Navigator Route",
+                  style: TextStyle(
+                    fontSize: 15,
+                    fontWeight: FontWeight.bold,
+                  ),
                 )),
           )
         ],

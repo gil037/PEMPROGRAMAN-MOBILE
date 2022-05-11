@@ -14,7 +14,7 @@ class _HomeState extends State<secondpage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.lightBlue,
-        title: Text('Gilang Yuda Pratama'),
+        title: Text('Second Page'),
         leading: IconButton(
           icon: Icon(Icons.arrow_back),
           onPressed: () {
@@ -47,6 +47,21 @@ class _HomeState extends State<secondpage> {
               ],
             ),
           ),
+          Container(
+            margin: EdgeInsets.only(left: 100, right: 100),
+            height: 40,
+            child: ElevatedButton(
+                onPressed: () {
+                  Navigator.pushNamed(context, '/');
+                },
+                child: Text(
+                  "Pindah dengan Named Route",
+                  style: TextStyle(
+                    fontSize: 15,
+                    fontWeight: FontWeight.bold,
+                  ),
+                )),
+          )
         ],
       ),
     );
