@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495065573560",
+    "project_id": "flutter-demo-4ad21",
+    "storage_bucket": "flutter-demo-4ad21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495065573560:android:89974985ac3bc6c1eeac4d",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495065573560-fnr8tu2m4ft7v6cl9en170ueuacugofk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7KhxsrWT2e0rW-SDiivqj_QPybGsTko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495065573560-fnr8tu2m4ft7v6cl9en170ueuacugofk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
