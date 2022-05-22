@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:pertemuan_6/checkBox.dart';
 import 'package:pertemuan_6/text_ctrl.dart';
 
 void main() {

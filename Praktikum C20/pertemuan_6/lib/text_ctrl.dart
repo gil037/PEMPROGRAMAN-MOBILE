@@ -9,3 +9,7 @@ class TextController extends GetxController {
     namaDepan = namaDepanCtrl.text.obs;
   }
 }
+
+class checkBoxController extends GetxController {
+  var isLapar = false.obs;
+}
