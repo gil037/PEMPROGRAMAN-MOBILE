@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931119770674",
+    "project_id": "cargo-delivery-de86d",
+    "storage_bucket": "cargo-delivery-de86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931119770674:android:c99d07021fba436b24a02b",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_gilang_yuda_pratama_2009106119"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931119770674-vdm7og1pkjplqs81oa3eunlhr7htct23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBzO0WHb1BBC9lvU9HPOdv5UBrGRbv4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931119770674-vdm7og1pkjplqs81oa3eunlhr7htct23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
