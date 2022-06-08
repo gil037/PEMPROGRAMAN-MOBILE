@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MSI",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/wv5dHecAkoDDCnzRjhTHl2pp8oxKmaBMb9qQbpZ3NzT1pMqWUg",
+  "gitHubUrl": "https://github.com/gil037/PA_PBO",
+  "workFolder": "_work"
+}

@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "820000419842",
+      "project_id": "uas-mobile-5f640",
+      "storage_bucket": "uas-mobile-5f640.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:820000419842:android:a27eb4e23fbffa2a6f771b",
+          "android_client_info": {
+            "package_name": "com.example.uas_pak_hario_gilangyudapratama_2009106119"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "820000419842-q5t5l75njrb3g8bc17tvk8pn36103ms2.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCxu-l3Au9QwumMXHa3JAsAwUZjEdGtg_I"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "820000419842-q5t5l75njrb3g8bc17tvk8pn36103ms2.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
